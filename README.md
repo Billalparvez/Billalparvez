@@ -26,13 +26,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billalparvez&" alt="billalparvez" /></p>
 </div>
 <h1>Projects</h1>
-<h3>1 .Survey application :</h3>
-- I Used: fontEnd side
+<h3>1.Survey application :</h3>
+- I Used: <h3>fontEnd side</h3>
  <li>React</li>
  <li>JavaScript</li>
  <li>Tailwind</li>
  <li>DaisyUi</li>
- <h2>BackEnd side</h2>
+ <h3>BackEnd side</h3>
  <li>DataBase Mongodb,express,cors dotenv etc</li>
  <li>Firebase Authentication Authentication with Jwt</li>
 
