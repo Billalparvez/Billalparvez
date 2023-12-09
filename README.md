@@ -26,5 +26,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billalparvez&" alt="billalparvez" /></p>
 </div>
 <h1>Projects</h1>
-- Techology Used:
+1 .Survey application :
+- I Used: fontEnd side
+ <li>React</li>
+ <li>JavaScript</li>
+ <li>Tailwind</li>
+ <li>DaisyUi</li>
+ <h2>BackEnd side</h2>
+ <li>DataBase Mongodb,express,cors dotenv etc</li>
+ <li>Firebase Authentication Authentication with Jwt</li>
+
 [live link](https://web.programming-hero.com/web-8/video/web-8-76-1-how-do-you-know-you-are-ready-to-look-for-job-or-intern)
