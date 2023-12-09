@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billalparvez&label=Profile%20views&color=0e75b6&style=flat" alt="billalparvez" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
-- 🌱 I’m currently learning **JavaScript**
-- 🌱 I’m currently learning **JavaScript**
+
 
 - 💬 Ask me about **react**
 
