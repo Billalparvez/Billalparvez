@@ -39,3 +39,17 @@
 [Client-Side](https://github.com/programming-hero-web-course1/b8a12-client-side-Billalparvez) </br>
 [Server-Side](https://github.com/programming-hero-web-course1/b8a12-server-side-Billalparvez) </br>
 [Live Link](https://survey-client-296da.web.app)
+
+<h3>2.Online Market Place :</h3>
+- I Used: <h3>fontEnd side</h3>
+ <li>React</li>
+ <li>JavaScript</li>
+ <li>Tailwind</li>
+ <li>DaisyUi</li>
+ <h3>BackEnd side</h3>
+ <li>DataBase Mongodb,express,cors dotenv etc</li>
+ <li>Firebase Authentication Authentication with Jwt</li>
+
+[Client-Side](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-Billalparvez)</br>
+[Server-Side](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-Billalparvez) </br>
+[Live Link](https://scientific-veil.surge.sh)
