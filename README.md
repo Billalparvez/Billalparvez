@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Billal Hossain 🌸 🌸</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <h2>About My</h2>
-<p>bangladesh is most natural country</p>
+<p>I am a developer, working my way through the hands of programming heroes. I am a person walking on the village's bumpy roads, I grew up seeing the suffering of the poor people in the village. I always cherished this and would do something for them, I think people are more valuable than money.
+I have always respected my work, as far as I have come I should not have come.
+ I was able to come so much by the mercy of my Lord. As a flower does not bloom for itself, it blooms to make the life of others beautiful and I am working to make others' lives angry
+I believe that he who is honest will be successful one day or the other, inshAllah.
+</p>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZuMG9uazBhNzFndWd4OWJtcDNhcHRhMzAzeG50ZWx5MTY2cXZkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right" alt="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billalparvez&label=Profile%20views&color=0e75b6&style=flat" alt="billalparvez" /> </p>
 
