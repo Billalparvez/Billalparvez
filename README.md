@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billalparvez&" alt="billalparvez" /></p>
 </div>
-<h1>Projects</h1>
+<h1>Projects</h1> 
 <h3>1.Survey application :</h3>
 - I Used: <h3>fontEnd side</h3>
  <li>React</li>
