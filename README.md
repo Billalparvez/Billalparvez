@@ -53,3 +53,17 @@
 [Client-Side](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-Billalparvez)</br>
 [Server-Side](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-Billalparvez) </br>
 [Live Link](https://scientific-veil.surge.sh)
+
+<h3>3.Technology web Side :</h3>
+- I Used: <h3>fontEnd side</h3>
+ <li>React</li>
+ <li>JavaScript</li>
+ <li>Tailwind</li>
+ <li>DaisyUi</li>
+ <h3>BackEnd side</h3>
+ <li>DataBase Mongodb,express,cors dotenv etc</li>
+ <li>Firebase Authentication Authentication with Jwt</li>
+
+[Client-Side](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-Billalparvez)</br>
+[Server-Side](https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-Billalparvez)</br>
+[Live Link](https://technology-cline.web.app)
