@@ -1,8 +1,8 @@
-
+![header](https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?w=826&t=st=1702128265~exp=1702128865~hmac=2fbbc890370d451a50e9b17100ff14e11128c5716a0c54afb64b6a75e87693b8)
 
 <h1 align="center">Hi 👋, I'm Billal Hossain 🌸 🌸</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZuMG9uazBhNzFndWd4OWJtcDNhcHRhMzAzeG50ZWx5MTY2cXZkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" align="right" alt="" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZuMG9uazBhNzFndWd4OWJtcDNhcHRhMzAzeG50ZWx5MTY2cXZkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" align="right" alt="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billalparvez&label=Profile%20views&color=0e75b6&style=flat" alt="billalparvez" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
