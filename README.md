@@ -62,7 +62,7 @@
  <li>DaisyUi</li>
  <h3>BackEnd side</h3>
  <li>DataBase Mongodb,express,cors dotenv etc</li>
- <li>Firebase Authentication Authentication with Jwt</li>
+ <li>Firebase Authentication</li>
 
 [Client-Side](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-Billalparvez)</br>
 [Server-Side](https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-Billalparvez)</br>
