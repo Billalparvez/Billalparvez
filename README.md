@@ -3,7 +3,7 @@
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZuMG9uazBhNzFndWd4OWJtcDNhcHRhMzAzeG50ZWx5MTY2cXZkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="" align="right" alt="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billalparvez&label=Profile%20views&color=0e75b6&style=flat" alt="billalparvez" /> </p>
 
-- 🌱 I’m currently learning **express.js,node.js**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **react**
 
