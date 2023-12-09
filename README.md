@@ -27,7 +27,7 @@
 </div>
 <h1>Projects</h1> 
 <h3>1.Survey application :</h3>
-- I Used: <h3>fontEnd side</h3>
+🌱 I Used: <h3>fontEnd side</h3>
  <li>React</li>
  <li>JavaScript</li>
  <li>Tailwind</li>
@@ -41,7 +41,7 @@
 [Live Link](https://survey-client-296da.web.app)
 
 <h3>2.Online Market Place :</h3>
-- I Used: <h3>fontEnd side</h3>
+🌱 I Used: <h3>fontEnd side</h3>
  <li>React</li>
  <li>JavaScript</li>
  <li>Tailwind</li>
@@ -55,7 +55,7 @@
 [Live Link](https://scientific-veil.surge.sh)
 
 <h3>3.Technology web Side :</h3>
-- I Used: <h3>fontEnd side</h3>
+🌱 I Used: <h3>fontEnd side</h3>
  <li>React</li>
  <li>JavaScript</li>
  <li>Tailwind</li>
