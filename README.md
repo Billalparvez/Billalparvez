@@ -1,4 +1,4 @@
-                    <img src="https://lh3.googleusercontent.com/ogw/ANLem4bYqtPrR3mkLlWgtCcGP2qsecqr_lJTA0KL51TJZg=s32-c-mo" width="" align="right" alt="" />
+<p><img src="https://lh3.googleusercontent.com/ogw/ANLem4bYqtPrR3mkLlWgtCcGP2qsecqr_lJTA0KL51TJZg=s32-c-mo" width="" align="right" alt="" /></p>
 
 <h1 align="center">Hi 👋, I'm Billal Hossain 🌸 🌸</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
