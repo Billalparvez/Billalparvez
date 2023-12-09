@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billalparvez&" alt="billalparvez" /></p>
 </div>
 <h1>Projects</h1>
-1 .Survey application :
+<h3>1 .Survey application :</h3>
 - I Used: fontEnd side
  <li>React</li>
  <li>JavaScript</li>
@@ -35,7 +35,7 @@
  <h2>BackEnd side</h2>
  <li>DataBase Mongodb,express,cors dotenv etc</li>
  <li>Firebase Authentication Authentication with Jwt</li>
-https://github.com/programming-hero-web-course1/b8a12-server-side-Billalparvez
-[Client-Side](https://github.com/programming-hero-web-course1/b8a12-client-side-Billalparvez)
-[Server-Side](https://github.com/programming-hero-web-course1/b8a12-server-side-Billalparvez)
+
+[Client-Side](https://github.com/programming-hero-web-course1/b8a12-client-side-Billalparvez) </br>
+[Server-Side](https://github.com/programming-hero-web-course1/b8a12-server-side-Billalparvez) </br>
 [Live Link](https://survey-client-296da.web.app)
