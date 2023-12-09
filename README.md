@@ -35,5 +35,7 @@
  <h2>BackEnd side</h2>
  <li>DataBase Mongodb,express,cors dotenv etc</li>
  <li>Firebase Authentication Authentication with Jwt</li>
-
-[live link](https://web.programming-hero.com/web-8/video/web-8-76-1-how-do-you-know-you-are-ready-to-look-for-job-or-intern)
+https://github.com/programming-hero-web-course1/b8a12-server-side-Billalparvez
+[Client-Side](https://github.com/programming-hero-web-course1/b8a12-client-side-Billalparvez)
+[Server-Side](https://github.com/programming-hero-web-course1/b8a12-server-side-Billalparvez)
+[Live Link](https://survey-client-296da.web.app)
