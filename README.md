@@ -1,5 +1,4 @@
 ![header](https://i.postimg.cc/RFNt7VLH/abstract-colorful-splash-3d-background-generative-ai-background.png)
-https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?w=826&t=st=1702128265~exp=1702128865~hmac=2fbbc890370d451a50e9b17100ff14e11128c5716a0c54afb64b6a75e87693b8
 <h1 align="center">Hi 👋, I'm Billal Hossain 🌸 🌸</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <h2>About My</h2>
