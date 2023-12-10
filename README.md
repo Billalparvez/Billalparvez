@@ -3,6 +3,7 @@
 <h3 align="center">Web Developer </h3>
 <font color="red">This is red text</font>
 <h2 style="color:red">About ME</h2>
+<span style="color: red;">This is red text using CSS style</span>
 <p>I am a developer, working my way through the hands of programming heroes. I am a person walking on the village's bumpy roads, I grew up seeing the suffering of the poor people in the village. I always cherished this and would do something for them, I think people are more valuable than money.
 I have always respected my work, as far as I have come I should not have come.
  I was able to come so much by the mercy of my Lord. As a flower does not bloom for itself, it blooms to make the life of others beautiful and I am working to make others' lives angry
