@@ -1,7 +1,7 @@
 ![header](https://i.postimg.cc/RFNt7VLH/abstract-colorful-splash-3d-background-generative-ai-background.png)
 <h1 align="center">Hi 👋, I'm Billal Hossain 🌸 🌸</h1>
 <h3 align="center">Web Developer </h3>
-<h2 class="text-red">About ME</h2>
+<h2 style="color:red">About ME</h2>
 <p>I am a developer, working my way through the hands of programming heroes. I am a person walking on the village's bumpy roads, I grew up seeing the suffering of the poor people in the village. I always cherished this and would do something for them, I think people are more valuable than money.
 I have always respected my work, as far as I have come I should not have come.
  I was able to come so much by the mercy of my Lord. As a flower does not bloom for itself, it blooms to make the life of others beautiful and I am working to make others' lives angry
