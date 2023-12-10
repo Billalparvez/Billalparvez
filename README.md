@@ -1,6 +1,6 @@
 ![header](https://i.postimg.cc/RFNt7VLH/abstract-colorful-splash-3d-background-generative-ai-background.png)
 <h1 align="center">Hi 👋, I'm Billal Hossain 🌸 🌸</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Web Developer </h3>
 <h2>About My</h2>
 <p>I am a developer, working my way through the hands of programming heroes. I am a person walking on the village's bumpy roads, I grew up seeing the suffering of the poor people in the village. I always cherished this and would do something for them, I think people are more valuable than money.
 I have always respected my work, as far as I have come I should not have come.
